@@ -1,4 +1,4 @@
-# Solar NOWCASTING
+# Sunshot Solar Nowcasting
 
 This project holds a set of ML and DL models that is used for solar nowcasting.
 
