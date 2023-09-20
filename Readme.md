@@ -23,8 +23,9 @@ h5py
 numpy
 matplotlib
 seaborn
-sklearn
+scikit-learn
 keras
+tensorflow
 ```
 
 
@@ -36,5 +37,4 @@ Download the dataset from [Dataset Source](https://purl.stanford.edu/dj417rh1007
 
 1) Convolutional Neural Networks
 2) Random Forest Regressor
-3) Gradient Boosting Regressor
-4) Multi Layer Perceptron
+3) Hist Gradient Boosting Regressor
